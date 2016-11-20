@@ -15,7 +15,7 @@ Bewarned: this extension does make continuous requests to all these horrible sit
 
 The premise behind this extension is untested, and probably only any use against the less tech-savy authroities, instead of the big-boys like GCHQ.
 
-I initialized the list of websites using the following...please leave suggestions as pull requests.
+I initialized the list of websites using the following...please leave suggestions for other sites as pull requests.
 
 https://www.reddit.com/r/india/comments/3fl8y9/indian_government_bans_porn_serious_discussion/ctprt37/
 https://www.wikileaks.org/wiki/Australian_government_secret_ACMA_internet_censorship_blacklist,_6_Aug_2008
