@@ -9,12 +9,13 @@ What? Well if you are ever questioned on your web history, you'll be able to say
 
 The goal is to let people visit websites without worrying about who will know this in the future. So people can explore political, religous, race/sexuality-related, and just plain contraversial content, without concern for big-brother. While we May trust the government today, recent events have shown that we may not wish to trust the governments of tomorrow with this information.
 
-So this extension just makes requests to a bunch of websites, then discards the results. It doesn't load the entire page, so any kind of deep inspection will be able to tell if you really visited the page...or not. It does this as long as your browser is open...so don't use it on metered connections etc...
+So this extension just makes requests to a bunch of (very shady) websites, then discards the results. It doesn't load the entire page, so any kind of deep inspection will be able to tell if you really visited the page...or not. It does this as long as your browser is open...so don't use it on metered connections etc...
 
-https://en.wikipedia.org/wiki/Investigatory_Powers_Act_2016
+Bewarned: this extension does make continuous requests to all these horrible sites, but none of the content is returned to you (blocked by Chrome's security policy!).
 
 The premise behind this extension is untested, and probably only any use against the less tech-savy authroities, instead of the big-boys like GCHQ.
 
-The authorities who will be able to access your web history under the Investigatory Powers Act 2016 include:
+I initialized the list of websites using the following...please leave suggestions as pull requests.
 
-tba
+https://www.reddit.com/r/india/comments/3fl8y9/indian_government_bans_porn_serious_discussion/ctprt37/
+https://www.wikileaks.org/wiki/Australian_government_secret_ACMA_internet_censorship_blacklist,_6_Aug_2008
