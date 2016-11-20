@@ -1,5 +1,5 @@
 # hot-fuzz
-Snooper's charter fuzzer Chrome extension 
+Anti Snooper's charter Chrome extension.
 
 If you want to avoid various arms of the UK government viewing the websites you visit, you should probably start using a VPN from a non-UK company, and investigate the likes of TOR.
 
@@ -12,6 +12,9 @@ The goal is to let people visit websites without worrying about who will know th
 So this extension just makes requests to a bunch of (very shady) websites, then discards the results. It doesn't load the entire page, so any kind of deep inspection will be able to tell if you really visited the page...or not. It does this as long as your browser is open: so don't use it on metered connections etc...
 
 Bewarned: this extension does make continuous requests to all these horrible sites, but none of the content is returned to you (blocked by Chrome's security policy).
+
+Having said that, instructions to install an unpacked chrome extension are here (if I get much response, maybe we can get it published on the Chrome store...):
+http://techapple.net/2015/09/how-to-install-load-unpacked-extension-in-google-chrome-browser-os-chromebooks/
 
 The premise behind this extension is untested, and probably only any use against the less tech-savy authroities, instead of the big-boys like GCHQ.
 
